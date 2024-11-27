@@ -1,4 +1,4 @@
-# airplanes-risk-analysis-for-business-expansion
+# Airplanes Risk Analysis for Business Expansion
 
 ## Overview
 Company is expanding into the aviation industry and needs to identify low-risk aircraft for commercial and private operations. An analysis of the aviation accidents and incidents is therefore required to be analyzed to provide key insights to help in decision making for aircraft purchasing
@@ -74,4 +74,4 @@ Risk analysis include:
 ---
 
 ## Visualization Link
-[Tableau Viz](https://public.tableau.com/app/profile/isaiah.githaiga/viz/AirplanesRiskAnalysisforBusinessExpansion/AircraftRiskAnalysisforBusinessExpansion?publish=yes)
+[Tableau Viz](https://public.tableau.com/app/profile/isaiah.githaiga/viz/AirplanesRiskAnalysisforBusinessExpansion/AircraftPurchasingRiskAnalysisforBusinessExpansion?publish=yes)
